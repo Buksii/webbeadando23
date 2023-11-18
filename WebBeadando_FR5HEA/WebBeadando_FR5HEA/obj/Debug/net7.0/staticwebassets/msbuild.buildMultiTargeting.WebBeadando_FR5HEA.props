@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebBeadando_FR5HEA.props" />
+</Project>

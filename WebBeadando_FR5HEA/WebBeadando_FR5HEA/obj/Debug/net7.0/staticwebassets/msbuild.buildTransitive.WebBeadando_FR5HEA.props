@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebBeadando_FR5HEA.props" />
+</Project>
